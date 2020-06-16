@@ -1,0 +1,1 @@
+Write a program that will send POST requests to an api simultaneously in multiple threads. Number of threads configurable by user. This program will calculate: 1. The number of requests after which the server replies anything other than 200 or 201 2. The average round trip time between sending of request and fetching of successful response
